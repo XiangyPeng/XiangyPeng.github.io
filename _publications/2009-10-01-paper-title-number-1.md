@@ -2,7 +2,7 @@
 title: "ELMAR: Enhancing LiDAR Detection with 4D Radar Motion Awareness and Cross-modal Uncertainty"
 collection: publications
 category: manuscripts
-permalink: /publication/IROS 2025
+permalink: /publication/
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2025-10-19
 venue: '2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
