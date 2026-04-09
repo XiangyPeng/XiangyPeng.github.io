@@ -4,7 +4,7 @@ collection: teaching
 type: "Metric Learning and Out of Destribution Detection"
 permalink: /teaching/spring-teaching-3
 venue: "Technical University of Munich"
-date: 2023-06-01
+date: 2022-04-01
 location: "Munich, Germany"
 ---
 
