@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. candidate from Infineon Technologies AG and Technical University of Munich in Computer Science, focusing on 3D perception, sensor data processing, and embedded AI systems. My research centers on developing efficient and robust machine learning models for real-world applications, particularly in radar and point cloud-based perception.
+I am a third-year doctoral candidate from Infineon Technologies AG and Technical University of Munich in Computer Science, focusing on 3D perception, sensor data processing, and embedded AI systems. My research centers on developing efficient and robust machine learning models for real-world applications, particularly in radar and point cloud-based perception.
 
 During my Ph.D., I have worked extensively on moving object segmentation and perception algorithms using sensor data, with a strong emphasis on deploying models on resource-constrained embedded platforms. My work spans the full machine learning lifecycle, including data preprocessing, model design (PyTorch), optimization, and deployment (ONNX, TensorFlow Lite, C/C++ integration).
 
