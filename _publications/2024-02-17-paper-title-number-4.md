@@ -1,5 +1,5 @@
 ---
-title: "MoRAL: Motion-aware multi-frame 4D radar and LiDAR fusion for robust 3D object detection"
+title: "MoRAL: Motion-Aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
