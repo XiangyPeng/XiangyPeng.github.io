@@ -12,5 +12,5 @@ location: "Munich, Germany"
 Develop Deep Learning-based solutions on HPC (Red Hat Enterprise Linux) for 4D mmWave Radar and multimodal 3D perception applications.
 *Edge–Cloud Cooperative Radar Data Ingestion System*<br>
 Design and implement an edge–cloud cooperative radar data ingestion pipeline featuring TinyML model development in PyTorch and deployment via TensorFlow Lite Micro on PSoC6 for real-time inference under memory constraints.
-*Radar Antenna Anomaly Detection*<br>
+*Radar Antenna Anomaly Detection*
 Develop a multi-channel autoencoder for unsupervised anomaly detection on radar ADC time-series, targeting faulty TX/RX antenna behavior.
