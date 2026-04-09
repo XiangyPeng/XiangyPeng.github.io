@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Doctoral Researcher on ML and AI system"
   location         : "Munich, Germany"
-  employer         : "Infineon Technologies & TUM"
+  employer         : "Infineon Technologies & \nTUM"
   uri              : # URL
   email            : "xiangyuan,peng@tum.de" 
 
