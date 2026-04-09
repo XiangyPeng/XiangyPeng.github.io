@@ -8,7 +8,7 @@ date: 2023-06-01
 location: "Munich, Germany"
 ---
 
-**DL-based Sensor Fusion for 3D Perception**
+**DL-based Sensor Fusion for 3D Perception** 
 Develop Deep Learning-based solutions on HPC (Red Hat Enterprise Linux) for 4D mmWave Radar and multimodal 3D perception applications.
 
 **Edge–Cloud Cooperative Radar Data Ingestion System**
