@@ -3,7 +3,7 @@ title: "Research Intership"
 collection: teaching
 type: "Metric Learning and Out of Destribution Detection"
 permalink: /teaching/spring-teaching-3
-venue: "Technical University of Munich"
+venue: "<br>Technical University of Munich"
 date: 2022-04-01
 location: "Munich, Germany"
 ---
