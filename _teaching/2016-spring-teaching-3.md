@@ -8,4 +8,4 @@ date: 2022-04-01
 location: "Munich, Germany"
 ---
 
-Investigated out-of-distribution detection (OOD) via metric learning. Analyzed cosine-similarity and Euclidean-distance loss functions to improve detections of unknown image classes with the Kaggle dataset and platform.
+Investigate out-of-distribution detection (OOD) via metric learning. Analyzed cosine-similarity and Euclidean-distance loss functions to improve detections of unknown image classes with the Kaggle dataset and platform.
