@@ -1,7 +1,7 @@
 ---
 title: "Postgraduate Study"
 collection: talks
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/talk-1
 location: "Singapore"
 ---
 
