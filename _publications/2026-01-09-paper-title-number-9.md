@@ -2,7 +2,7 @@
 title: "XD-RCDepth: Lightweight Radar-Camera Depth Estimation with Explainability-Aligned and Distribution-Aware Distillation"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-09-paper-title-number-8
+permalink: /publication/2026-01-09-paper-title-number-9
 excerpt: ''
 date: 2025-10-15 
 venue: 'IEEE Robotics and Automation Letters (R-AL)'   
