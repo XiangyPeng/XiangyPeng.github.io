@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "ELMAR: Enhancing LiDAR Detection with 4D Radar Motion Awareness and Cross-modal Uncertainty"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
