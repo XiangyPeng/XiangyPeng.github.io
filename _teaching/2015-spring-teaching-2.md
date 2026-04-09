@@ -7,14 +7,5 @@ venue: "<br>Infineon Technologies AG"
 date: 2022-08-01
 location: "Munich, Germany"
 ---
+Design a 3D CNN-based model with PyTorch for time-series radar frames to address false human detections under subtle motion interference.
 
-Develop Deep Learning-based solutions for FMCW Radar applications.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
