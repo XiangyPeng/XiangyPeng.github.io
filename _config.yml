@@ -89,7 +89,9 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   manuscripts:
-    title: 'Submitted Articles'  
+    title: 'Submitted Articles' 
+  patents:
+    title: 'Patents' 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
