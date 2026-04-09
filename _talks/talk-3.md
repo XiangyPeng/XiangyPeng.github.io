@@ -1,7 +1,7 @@
 ---
 title: "Dotoral Candidate"
 collection: talks
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/talk-3
 location: "Munich, Germany" 
 ---
 **Technical University of Munich<br>**
