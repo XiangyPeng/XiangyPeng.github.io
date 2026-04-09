@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Munich, Byern, Germany"
+locale                   : "Munich, Germany"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Homepage"
 title_separator          : "-"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Doctoral Researcher on ML and AI system"
   location         : "Munich, Germany"
-  employer         : "Infineon Technologies & \nTUM"
+  employer         : "Infineon Technologies & TUM"
   uri              : # URL
   email            : "xiangyuan,peng@tum.de" 
 
