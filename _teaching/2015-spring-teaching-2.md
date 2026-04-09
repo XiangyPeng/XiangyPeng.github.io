@@ -8,5 +8,5 @@ date: 2022-08-01
 enddate: 2023-05-01
 location: "Munich, Germany"
 ---
-Design a 3D CNN-based model with PyTorch for time-series radar frames to address false human detections under subtle motion interference.
+Design a 3D CNN-based model with PyTorch for time-series radar signal to address false human detections under subtle motion interference.
 
