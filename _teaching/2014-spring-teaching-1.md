@@ -8,13 +8,16 @@ date: 2023-06-01
 location: "Munich, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+DL-based Sensor Fusion for 3D Perception
 ======
+Develop Deep Learning-based solutions on HPC (Red Hat Enterprise Linux) for 4D mmWave Radar and multimodal 3D perception applications.
 
-Heading 2
+Edge–Cloud Cooperative Radar Data Ingestion System
 ======
+Design and implement an edge–cloud cooperative radar data ingestion pipeline featuring TinyML model development in PyTorch and deployment via TensorFlow Lite Micro on PSoC6 for real-time inference under memory constraints.
 
-Heading 3
+Radar Antenna Anomaly Detection
 ======
+Develop a multi-channel autoencoder for unsupervised anomaly detection on radar ADC time-series, targeting faulty TX/RX antenna behavior
+
