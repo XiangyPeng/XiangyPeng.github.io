@@ -4,7 +4,7 @@ collection: teaching
 type: "ML Algorithms for 3D Perception and Deployment for IoT Sensing"
 permalink: /teaching/2014-spring-teaching-1
 venue: "<br>Infineon Technologies AG | 2023.06 – present"
-date: "2023-06-01 -- present"
+date: "2023-06-01 - present"
 location: "Munich, Germany"
 ---
 
