@@ -8,7 +8,7 @@ date: 2022-08-01
 location: "Munich, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Develop Deep Learning-based solutions for FMCW Radar applications.
 
 Heading 1
 ======
