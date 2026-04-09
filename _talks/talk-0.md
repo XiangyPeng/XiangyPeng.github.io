@@ -1,7 +1,7 @@
 ---
 title: "Bachelor Degree"
 collection: talks
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/talk-0
 location: "Shanghai, China"
 ---
 
