@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "ML Researcher"
 collection: teaching
-type: "Undergraduate course"
+type: "ML Algorithms and Deployment for IoT Sensing"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Infineon Technologies AG"
 date: 2014-01-01
-location: "City, Country"
+location: "Munich, Germany"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
