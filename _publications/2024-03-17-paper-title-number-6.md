@@ -2,7 +2,7 @@
 title: "Enhancing Indoor Radar Detection: An FMCW Radar System for Distinguishing Human Presence and Swinging Blinds"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-6
+permalink: /publication/2024-03-17-paper-title-number-6
 excerpt: ''
 date: 2024-05-06 
 venue: '2024 IEEE Radar Conference (RadarConf24)'   
