@@ -1,5 +1,5 @@
 ---
-title: "Mutualforce: Mutual-aware enhancement for 4d radar-lidar 3d object detection"
+title: "Mutualforce: Mutual-Aware Enhancement for 4D Radar-Lidar 3D Object Detection"
 collection: publications
 category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
