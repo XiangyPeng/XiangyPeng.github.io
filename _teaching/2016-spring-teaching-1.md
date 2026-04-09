@@ -1,7 +1,7 @@
 ---
 title: "ML Researcher"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2016-spring-teaching-1
 venue: "<br>Infineon Technologies AG | 2023.06 – 2026.06"
 type: "ML Algorithms for 3D Perception and Deployment for IoT Sensing"
 ---
