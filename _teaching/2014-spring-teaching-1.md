@@ -1,9 +1,9 @@
 ---
 title: "ML Researcher"
 collection: teaching
-type: "ML Algorithms for 3D Perception and Deployment for IoT Sensing"
 permalink: /teaching/2014-spring-teaching-1
 venue: "<br>Infineon Technologies AG | 2023.06 – 2026.06"
+type: "ML Algorithms for 3D Perception and Deployment for IoT Sensing"
 ---
 
 **·DL-based Sensor Fusion for 3D Perception**<br>
