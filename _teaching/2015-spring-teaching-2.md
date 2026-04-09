@@ -1,7 +1,7 @@
 ---
 title: "Master Thesis Student"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "<br>Infineon Technologies AG | 2022.08 – 2023.05"
 type: "Develop Deep Learning-based solutions for FMCW Radar applications."
 ---
