@@ -7,16 +7,16 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Munich, Germany"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Xiangyuan Peng"
+description              : &description "I am a fourth-year Ph.D. candidate in Computer Science, focusing on 3D perception, sensor data processing, and embedded AI systems. My research centers on developing efficient and robust machine learning models for real-world applications, particularly in point cloud-based perception. \nDuring my Ph.D., I have worked extensively on perception algorithms using sensor data, with a strong emphasis on deploying models on resource-constrained embedded platforms. My work spans the full machine learning lifecycle, including data preprocessing, model design (PyTorch， TensorFlow), optimization, and deployment (ONNX, TensorFlow Lite, C/C++ integration). \nIn addition, I have hands-on experience with building reproducible ML pipelines, optimizing inference for real-time systems, and integrating AI models into production-oriented environments. My technical interests include 3D computer vision, multimodal perception, edge AI, and system-level optimization. \nFeel free to reach out if you are interested in collaboration or opportunities."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://XiangyPeng.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "XiangyPeng/XiangyPeng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,24 +24,24 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiangyuan Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Doctoral Research on ML and AI system"
+  location         : "Munich, Germany"
+  employer         : "Infineon Technologies and TUM"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiangyuan,peng@tum.de" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=YZHg3twAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # ""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/XiangyPeng/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -84,10 +84,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+  #books:
+  #  title: 'Books'
+  #manuscripts:
+  #  title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
