@@ -23,7 +23,7 @@ repository               : "XiangyPeng/XiangyPeng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "Xiangyuan_photo.jpg"
   name             : "Xiangyuan Peng"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral Research on ML and AI system"
