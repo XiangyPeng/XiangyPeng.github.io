@@ -1,7 +1,7 @@
 ---
 title: "Master Degree"
 collection: talks
-permalink: /talks/2014-02-01-talk-2
+permalink: /talks/talk-2
 location: "Munich, Germany "
 ---
 
