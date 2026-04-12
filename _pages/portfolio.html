@@ -1,14 +1,19 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+{% for post in site.portfolio reversed %}
+  <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% if post.excerpt %}
+    <p>{{ post.excerpt }}</p>
+  {% endif %}
+
+  {{ post.content }}
+  <hr>
 {% endfor %}
-
