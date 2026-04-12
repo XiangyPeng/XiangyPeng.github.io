@@ -1,5 +1,5 @@
 ---
-title: "Dotoral Candidate"
+title: "Doctoral Candidate"
 collection: talks
 permalink: /talks/talk-3
 location: "Munich, Germany" 
