@@ -1,3 +1,4 @@
+---
 title: "Sensor-Edge–Cloud Cooperative Data Ingestion System for EU Project DELPHI"
 excerpt: "End-to-end perception pipeline with sensor nodes, embedded inference, gateway communication, and cloud monitoring<br/><img src='/files/delphi.PNG'>"
 collection: portfolio
