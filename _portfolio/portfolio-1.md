@@ -4,7 +4,7 @@ excerpt: "End-to-end perception pipeline with sensor nodes, embedded inference, 
 collection: portfolio
 ---
 
-## 📌 Project Overview
+## 📌 Work Overview
 This work focuses on building an end-to-end edge–cloud cooperative sensor data ingestion system for real-time perception and monitoring. The system combines embedded inference on MCU hardware, gateway-based communication, and cloud-side data transmission to enable efficient radar data processing in resource-constrained environments.
 
 ## 🧠 My Contributions
