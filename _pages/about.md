@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Hello! It's Xiangyuan here.
 
 I am a third-year doctoral candidate from Infineon Technologies AG and Technical University of Munich in Computer Science, focusing on 3D perception, sensor data processing, and embedded AI systems. My research centers on developing efficient and robust machine learning models for real-world applications, particularly in radar and point cloud-based perception.
 
