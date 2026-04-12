@@ -1,11 +1,11 @@
 ---
 title: "Radar Antenna Anomaly Detection for BMBF Project: ZuSE-KI-Mobil"
-excerpt: "Unsupervised anomaly detection for radar antenna diagnostics using multi-channel autoencoders<br/>"
+excerpt: "Unsupervised anomaly detection for radar antenna diagnostics using multi-channel autoencoders<br/><img src='/files/zuse.PNG'>"
 collection: portfolio
 ---
 
 ## 📌 Project Overview
-This project focuses on detecting faulty TX/RX antennas in radar systems using unsupervised learning on raw ADC time-series data. The goal is to enable reliable hardware diagnostics without labeled data, improving system robustness in automotive radar applications.
+This work focuses on detecting faulty TX/RX antennas in radar systems using unsupervised learning on raw ADC time-series data. The goal is to enable reliable hardware diagnostics without labeled data, improving system robustness in automotive radar applications.
 
 ## 🧠 My Contributions
 - Developed a multi-channel autoencoder for unsupervised anomaly detection on radar ADC time-series data.
