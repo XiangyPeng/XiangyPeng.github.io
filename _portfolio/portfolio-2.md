@@ -1,6 +1,6 @@
 ---
 title: "2. Radar Antenna Anomaly Detection for BMBF Project: ZuSE-KI-Mobil"
-excerpt: "Unsupervised anomaly detection for radar antenna diagnostics using multi-channel autoencoders<br/><img src='/files/zuse.PNG'>"
+excerpt: "Unsupervised anomaly detection for radar antenna diagnostics using multi-channel autoencoders<br/><img src='/files/zuse.png'>"
 collection: portfolio
 ---
 
