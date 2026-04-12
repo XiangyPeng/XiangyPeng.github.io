@@ -4,7 +4,7 @@ excerpt: "Unsupervised anomaly detection for radar antenna diagnostics using mul
 collection: portfolio
 ---
 
-## 📌 Project Overview
+## 📌 Work Overview
 This work focuses on detecting faulty TX/RX antennas in radar systems using unsupervised learning on raw ADC time-series data. The goal is to enable reliable hardware diagnostics without labeled data, improving system robustness in automotive radar applications.
 
 ## 🧠 My Contributions
@@ -19,6 +19,3 @@ This work focuses on detecting faulty TX/RX antennas in radar systems using unsu
 - Signal Processing  
 - Time-series Modeling  
 - Radar Data Analysis
-
-## 📄 Resources
-- [Project PDF](/files/Edge device and Cloud Cooperative Data.pdf)
