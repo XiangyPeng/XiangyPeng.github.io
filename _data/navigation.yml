@@ -9,7 +9,7 @@
 
 main:
   - title: "Educations"
-    url: /talks/  
+    url: /educations/  
     
   - title: "Working Experience"
     url: /teaching/     
